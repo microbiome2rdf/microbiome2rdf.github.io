@@ -11,11 +11,11 @@ The human microbiome is the collective genomes of microorganisms which reside on
 
 ### Contributors
 
-Takatomo Fujisawa (NIG)
-Shuichi Kawashima (DBCLS)
-Hiroshi Mori (NIG)
-Yoko Okabeppu (OKBP inc)
-Daisuke Satoh (Lifematics)
-Takuji Yamada (TITEC)
+* Takatomo Fujisawa (NIG)
+* Shuichi Kawashima (DBCLS)
+* Hiroshi Mori (NIG)
+* Yoko Okabeppu (OKBP inc)
+* Daisuke Satoh (Lifematics)
+* Takuji Yamada (TITECH)
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
