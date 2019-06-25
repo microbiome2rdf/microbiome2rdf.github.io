@@ -1,36 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to microbiome2rdf project
 
-You can use the [editor on GitHub](https://github.com/microbiome2rdf/microbiome2rdf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The human microbiome is the collective genomes of microorganisms which resides on or within human tissues and biofluids such as the skin, oral cavity, and gastrointestinal tracts. microflora). In recent years, various types of human microbiomes have been sequenced, and a huge amount of data has been accumulated. By exposing metadata of microbiome data as RDF, it is expected to further cooperation among microbiome data and as a result, it will lead to more advanced human microbiome analysis. In order to improve the interoperability of RDF datasets, it is important to use common vocabularies and RDF models.  This project was initiated by SPARQLthon 80 participants, who are involved in RDFization of microbiome data. The purpose is to define the minimum requirements of metadata of human microbiome data, which will include RDF schema, ontologies, and vocabularies to be used. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Useful resources
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/microbiome2rdf/microbiome2rdf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [SPARQLthon](http://wiki.lifesciencedb.jp/mw/SPARQLthon)
+- [RDF portal](https://integbio.jp/rdf/)
+- [RDF guidelines](https://github.com/dbcls/rdfizing-db-guidelines)
+- [MicrobeDB.jp](http://microbedb.jp/MDB/)
 
 ### Contributors
 
