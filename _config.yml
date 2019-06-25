@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: microbiome2rdf
 description: A community effort designing minimam requirements for exposing microbiome data as RDF
+show_downloads: true
