@@ -6,7 +6,7 @@ The human microbiome is the collective genomes of microorganisms which reside on
 
 - [SPARQLthon](http://wiki.lifesciencedb.jp/mw/SPARQLthon)
 - [RDF portal](https://integbio.jp/rdf/)
-- [RDF guidelines](https://github.com/dbcls/rdfizing-db-guidelines)
+- [DBCLS RDFzing DB guidelines](https://github.com/dbcls/rdfizing-db-guidelines)
 - [MicrobeDB.jp](http://microbedb.jp/MDB/)
 
 ### Contributors
