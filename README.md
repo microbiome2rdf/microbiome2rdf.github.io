@@ -16,6 +16,7 @@ The human microbiome is the collective genomes of microorganisms which reside on
 * Hiroshi Mori (NIG)
 * Yoko Okabeppu (OKBP inc)
 * Daisuke Satoh (Lifematics)
+* Terue Takatsuki (DBCLS)
 * Takuji Yamada (TITECH)
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
